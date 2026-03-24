@@ -1,8 +1,8 @@
-# Guess the number! ft Java
+# Guess the number! (my first project) ft Java
 
 A simple guessing game built with Java where the user tries to guess a randomly generated number between 1 and 100!
 
-## Features
+## Features to notice
 * **Random Number Generation:** Uses `java.util.Random` for a new random number everytime you run it.
 * **Interactive Feedback:** Tells the user if their guess is too high or too low.
 * **Repeated Input:** Uses `java.util.Scanner` so the user can actually give an input everytime.
