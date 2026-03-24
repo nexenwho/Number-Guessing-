@@ -1,4 +1,4 @@
-# Guess the number! (my first project) ft Java
+# Guess the number! ft Java
 
 A simple guessing game built with Java where the user tries to guess a randomly generated number between 1 and 100!
 
@@ -12,10 +12,14 @@ A simple guessing game built with Java where the user tries to guess a randomly 
 2. **Open any terminal (Can be CMD, Powershell etc)**
 3. **Run the following three commands**
    ```
-   cd [path-to-your-downloaded-folder]   
+   cd [path-to-your-downloaded-folder] 
+   ```  
    (for example: cd C:\Users\user\Downloads\NumberGuessing)
+   
+   ```
    javac src/NumberGuessing.java
+   ```
+   ```
    java -cp src NumberGuessing
    ```
-4. **ENJOY**
-   
+5. **ENJOY**
