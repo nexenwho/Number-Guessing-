@@ -9,8 +9,9 @@ A simple guessing game built with Java where the user tries to guess a randomly 
 
 ## How to run it (Important)
 1. **Install the latest version of JDK from https://www.oracle.com/apac/java/technologies/downloads/**
-2. **Open any terminal (Can be CMD, Powershell etc)**
-3. **Run the following three commands**
+2. **Download the 'main' file from github and unzip it**
+3. **Open any terminal (Can be CMD, Powershell etc)**
+4. **Run the following three commands**
    ```
    cd [path-to-your-downloaded-folder] 
    ```  
